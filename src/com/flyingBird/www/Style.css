@@ -1,0 +1,21 @@
+.operate {
+    -fx-background-color: #000;
+}
+.startBtn {
+    -fx-fill: #000;
+    -fx-font-size: 14px;
+    -fx-background-color: aliceblue;
+}
+.font {
+    -fx-font-family: DFKai-SB;
+    -fx-font-size: 20px;
+    -fx-text-fill: lightcyan;
+    -fx-label-padding: 5px;
+}
+
+.best {
+    -fx-font-family: DFKai-SB;
+    -fx-font-size: 16px;
+    -fx-text-fill: lightcyan;
+    -fx-label-padding: 5px;
+}
